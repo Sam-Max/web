@@ -4,6 +4,10 @@ date: 2024-06-11T00:00:00Z
 draft: false
 layout: "single"
 links:
+  - url: "/dev/apps/river/"
+    text: "River"
+    icon: "fas fa-comments"
+    color: "is-medium-blue"
   - url: "/resources/video-talks/"
     text: "Video Talks"
     icon: "fas fa-video"
